@@ -1,0 +1,24 @@
+
+J
+java:S3740N"/Provide the parametrized type for this generic.(Æ¼Ğáıÿÿÿÿ
+[	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(üí³Ë
+[	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ÆÊı°
+n
+java:S11927"SDefine a constant instead of duplicating this literal "æ•°æ®ä¸‹è½½æˆåŠŸ" 4 times.(Æ¼Ğáıÿÿÿÿ
+J
+java:S3740Z"/Provide the parametrized type for this generic.(Æ¼Ğáıÿÿÿÿ
+e
+java:S1192K"JDefine a constant instead of duplicating this literal "startTime" 3 times.(õÉéñüÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(Æ¼Ğáıÿÿÿÿ
+Z	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Õ“‰I
+J
+java:S3740B"/Provide the parametrized type for this generic.(Æ¼Ğáıÿÿÿÿ
+c
+java:S1192L"HDefine a constant instead of duplicating this literal "endTime" 3 times.(Ö¯¢íüÿÿÿÿ
+[	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(Õ³æĞ
+E
+java:S1068&"*Remove this unused "logger" private field.(®¢‘‚ùÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(›¨ùñúÿÿÿÿ
+=
+java:S1068-"'Remove this unused "set" private field.(­èÈµ

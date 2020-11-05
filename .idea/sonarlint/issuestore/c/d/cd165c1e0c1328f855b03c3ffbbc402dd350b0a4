@@ -1,0 +1,21 @@
+
+[	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(×ÉÿÇ
+T
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(õ§˜ë
+_
+java:S2259R"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ
+g
+java:S2259q"LA "NullPointerException" could be thrown; "searchResponse" is nullable here.(÷ğ˜ôûÿÿÿÿ
+M
+java:S2589A"7Remove this expression which always evaluates to "true"(õ§˜ë
+U
+java:S1118'":Add a private constructor to hide the implicit public one.(­­¼Òüÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(­ì²¹
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(šô˜¿
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(˜—öıÿÿÿÿ
+m
+java:S2737P"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÜÆæê
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ªàóæ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ŞÖ¥Ïüÿÿÿÿ
+M	java:S106t"9Replace this use of System.out or System.err by a logger.(Õğéi

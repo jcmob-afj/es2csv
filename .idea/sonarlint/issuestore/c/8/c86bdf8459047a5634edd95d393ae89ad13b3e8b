@@ -1,0 +1,6 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(€‡°Åúÿÿÿÿ
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+U	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ

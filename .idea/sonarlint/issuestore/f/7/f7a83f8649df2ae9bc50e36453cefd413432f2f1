@@ -1,0 +1,88 @@
+
+
+java:S1319÷"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ûüûŞşÿÿÿÿ
+C
+java:S14448"-Make this "public static YYYY_MM" field final(Å°İ®
+F
+java:S1444:"0Make this "public static YYYY_MM_DD" field final(Ñ«¦Û
+J
+java:S1444<"4Make this "public static YYYYMMDDHHMMSS" field final(óƒ±ë
+T
+java:S1444>"9Make this "public static YYYY_MM_DD_HH_MM_SS" field final(‚ã™Áıÿÿÿÿ
+n
+java:S1192<"XUse already-defined constant 'DATE_FULL_SS_NO_SP' instead of duplicating its value here.(óƒ±ë
+s
+java:S1192A"]Use already-defined constant 'DATETIME_PATTERN_NO_MSE' instead of duplicating its value here.(§Îâ–
+q
+java:S1192>"VUse already-defined constant 'DATETIME_PATTERN' instead of duplicating its value here.(‚ã™Áıÿÿÿÿ
+{
+java:S1192"_Use already-defined constant 'DATETIME_PATTERN_DATE_NO_' instead of duplicating its value here.(§¡¥±şÿÿÿÿ
+q
+java:S1192:"[Use already-defined constant 'DATETIME_PATTERN_DATE' instead of duplicating its value here.(Ñ«¦Û
+K
+java:S1066™"/Merge this if statement with the enclosing one.(³Ó‘õıÿÿÿÿ
+]
+java:S2184±"FCast one of the operands of this multiplication operation to a "long".(¦›çö
+b
+java:S2184²"FCast one of the operands of this multiplication operation to a "long".(á™¹ğûÿÿÿÿ
+b
+java:S2184³"FCast one of the operands of this multiplication operation to a "long".(íïêşÿÿÿÿ
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+U
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(÷Ï÷™
+D
+java:S1604Ï"(Make this anonymous inner class a lambda(•÷½Áüÿÿÿÿ
+^
+java:S2259ò"BA "NullPointerException" could be thrown; "date" is nullable here.(Ô¸•åÿÿÿÿÿ
+i
+java:S11048"SMake YYYY_MM a static final constant or non-public and provide accessors if needed.(Å°İ®
+l
+java:S1104:"VMake YYYY_MM_DD a static final constant or non-public and provide accessors if needed.(Ñ«¦Û
+p
+java:S1104<"ZMake YYYYMMDDHHMMSS a static final constant or non-public and provide accessors if needed.(óƒ±ë
+z
+java:S1104>"_Make YYYY_MM_DD_HH_MM_SS a static final constant or non-public and provide accessors if needed.(‚ã™Áıÿÿÿÿ
+h
+java:S30088"RRename this field "YYYY_MM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å°İ®
+k
+java:S3008:"URename this field "YYYY_MM_DD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ«¦Û
+o
+java:S3008<"YRename this field "YYYYMMDDHHMMSS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óƒ±ë
+y
+java:S3008>"^Rename this field "YYYY_MM_DD_HH_MM_SS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ã™Áıÿÿÿÿ
+o	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â£óğ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ò®ÜÄ
+R
+java:S1854‰";Remove this useless assignment to local variable "mondays".(ìğ¨â
+R
+java:S1854•";Remove this useless assignment to local variable "mondays".(ìğ¨â
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ûüûŞşÿÿÿÿ
+u
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å˜³œøÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(Úïşÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(œÎ²´ıÿÿÿÿ
+r
+java:S2159™"VRemove this call to "equals"; comparisons between unrelated types always return false.(³Ó‘õıÿÿÿÿ
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ıÕªüÿÿÿÿ
+X
+java:S1126Ã"AReplace this if-then-else statement by a single return statement.(ƒÊ¶ü
+X
+java:S1126Ü"AReplace this if-then-else statement by a single return statement.(ÇôåË
+ˆ
+java:S1130ï"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+T
+java:S2130Œ"8Use "Long.parseLong" for this string-to-long conversion.(ÚÙ¦Áøÿÿÿÿ
+T
+java:S2130š"8Use "Long.parseLong" for this string-to-long conversion.(‚ŒºØúÿÿÿÿ
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(óİ…üÿÿÿÿ
+]
+java:S1126ı"AReplace this if-then-else statement by a single return statement.(œ©Üİşÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(„öİ£ıÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(‘¹¡¬ÿÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ôîÉŸÿÿÿÿÿ

@@ -1,0 +1,18 @@
+
+o
+java:S1192K"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:00:00" 7 times.(¢“ÑÂıÿÿÿÿ
+s
+java:S11925"]Define a constant instead of duplicating this literal "YYYY-MM-dd'T'HH:mm:ss.SSS'Z'" 3 times.(¶“½ı
+o
+java:S1192L"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 4 times.(™¶®úÿÿÿÿ
+j
+java:S1192b"TDefine a constant instead of duplicating this literal "yyyy-MM-dd 00:00:00" 5 times.(Ç †µ
+i
+java:S1192J"NDefine a constant instead of duplicating this literal "Asia/Shanghai" 4 times.(¨è¨êşÿÿÿÿ
+p
+java:S1192„"TDefine a constant instead of duplicating this literal "YYYY-MM-dd HH:mm:ss" 3 times.(Áİš®üÿÿÿÿ
+v
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ü¬°»ûÿÿÿÿ
+?	java:S108‡")Either remove or fill this block of code.(Úîø›

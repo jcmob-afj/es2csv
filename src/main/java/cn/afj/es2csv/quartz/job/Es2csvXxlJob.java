@@ -19,10 +19,7 @@ import com.google.common.collect.Sets;
 import com.xxl.job.core.biz.model.ReturnT;
 import com.xxl.job.core.handler.annotation.XxlJob;
 
-import cn.afj.es2csv.quartz.handler.CallbackDataJobHandler;
-import cn.afj.es2csv.quartz.handler.ClickDataJobHandler;
 import cn.afj.es2csv.quartz.handler.ToCSVJobHandler;
-import cn.afj.es2csv.quartz.handler.channelClickJobHandler;
 import cn.afj.es2csv.util.DateUtils;
 
 /**
